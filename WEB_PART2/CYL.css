@@ -1,0 +1,79 @@
+.theImage {
+    position: relative;
+    text-align: center;
+    -webkit-filter: grayscale(0%);
+
+}
+
+.theCentere {
+    color: white;
+    font-size:50;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+#d {
+    padding-top: 20;
+    padding-left:70;
+    padding-bottom:20;
+}
+
+
+#m {
+    padding-top: 20;
+    padding-left:70;
+    padding-bottom:20;
+}
+
+#i {
+    padding-top: 20;
+    padding-left:70;
+    padding-bottom:20;
+}
+
+
+
+
+.button1 {
+    padding: left 10px;
+    border: none;
+    color: white;
+    background-color: rgb(108, 36, 16);
+    padding: 8px 109px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 70;
+    cursor: pointer;
+  }
+
+  .button2 {
+    padding: left 10px;
+    border: none;
+    color: white;
+    background-color: rgb(108, 36, 16);
+    padding: 8px 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 70;
+    cursor: pointer;
+  }
+
+  .button3 {
+    padding: left 10px;
+    border: none;
+    color: white;
+    background-color: rgb(108, 36, 16);
+    padding: 8px 101px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 70;
+    cursor: pointer;
+  }
+
